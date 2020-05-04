@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">App Covid 19 - Ref.</string>
+
+    <string name="casa1">
+Ao sair, coloque uma jaqueta de manga longa.
+
+
+</string>
+
+
+    <string name="casa2">
+Prenda o cabelo e evite usar brincos, aneis, correntinhas.
+
+
+</string>
+
+    <string name="casa3">
+Se estiver com gripe ou tosse, coloque uma máscara, pouco antes de sair.
+
+
+</string>
+
+    <string name="casa4">
+
+Evite utilizar o transporte publico.
+
+</string>
+
+    <string name="casa5">
+
+Se sair com seu pet, tente evitar que se esfreque contra superficies externas.
+
+</string>
+
+    <string name="casa6">
+Leve lencinhos descartaveis e use-os para tocar as superficies.
+
+
+</string>
+
+    <string name="casa7">
+Amasse o lenço e jogue-o em uma saco fechado dentro da lata de lixo.
+
+
+</string>
+
+    <string name="casa8">
+
+Ao tossir ou espirrar, não utilize as mãos ou o ar.
+
+</string>
+
+    <string name="casa9">
+
+Evite usar dinheiro. Se necesário, imediatamente higienize suas maos.
+
+</string>
+
+    <string name="casa10">
+
+Lave ou higienize suas mãos após tocar em qualquer objeto ou superficie.
+
+</string>
+
+    <string name="casa11">
+
+Não toque seu rosto antes de higienizar suas mãos.
+
+</string>
+
+    <string name="casa12">
+
+Mantenha distância das pessoas.
+
+</string>
+
+
+    <string name="risco1">
+Dormir em cama separada.
+
+
+</string>
+
+
+    <string name="risco2">
+
+Utilizar banheiros diferentes e desinfeta-los com água sanitária.
+
+</string>
+
+    <string name="risco3">
+Não compartilhar toalhas, talheres, copos.
+
+
+</string>
+
+    <string name="risco4">
+Limpe e desinfete diariamente superficies de alto contato.
+
+
+</string>
+
+    <string name="risco5">
+Lave roupas, lençóis e toalhas com mais frequência.
+
+
+</string>
+
+    <string name="risco6">
+Manter distância, dormir em quartos separados.
+
+
+</string>
+
+    <string name="risco7">
+Manter os quartos ventilados.
+
+
+</string>
+
+    <string name="risco8">
+Ligue para o numero 136, se houver mais de 38° de febre e dificuldade de respirar.
+
+
+</string>
+
+    <string name="risco9">
+Não quebre a quarentena por 2 semanas. Toda saída de casa é uma reinicialização do contador.
+
+
+</string>
+
+    <string name="sair1">
+Ao voltar para casa, não toque em nada, antes de se higienizar.
+
+
+</string>
+
+    <string name="sair2">
+Tire os sapatos.
+
+
+</string>
+    <string name="sair3">
+Desinfete as patas do seu pet apos passear com ele.
+
+
+</string>
+    <string name="sair4">
+Tire a roupa e coloque-a em uma sacola plastica no cesto de roupa.
+
+</string>
+    <string name="sair5">
+
+Deixe bolsa, carteira, chaves e etc, em uma caixa na entrada.
+
+</string>
+    <string name="sair6">
+
+Tome banho! Se não puder, lave bem todas as áreas expostas.
+
+
+</string>
+    <string name="sair7">
+
+Limpe seu celular e os óculos com sabão e água ou álcool.
+
+</string>
+    <string name="sair8">
+Limpe as embalagens que trouxe de fora antes de guardar.
+
+
+</string>
+    <string name="sair9">
+Tire as luvas com cuidado e jogue-as fora e lave as mãos.
+
+
+</string>
+    <string name="sair10">
+Lembre-se que não é possível fazer uma desinfecção total, o objetivo é reduzir o risco.
+
+
+</string>
+
+</resources>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#4fb3bf"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RiscoActivity"
+    android:layout_column="2"
+    >
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Casa"
+        android:layout_column="2"
+        >
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="69dp"
+            android:background="#007c91"
+            android:gravity="center"
+            android:text="Protocolos de Convivência com \n Pessoas nos Grupos de Risco"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="18dp"
+            tools:layout_editor_absoluteX="-2dp"
+            tools:layout_editor_absoluteY="6dp" />
+
+
+        <ImageView
+            android:id="@+id/imageView17"
+            android:layout_width="102dp"
+            android:layout_height="71dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_marginLeft="-250dp"
+            android:layout_marginTop="100dp"
+            app:srcCompat="@drawable/risco1"
+
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="-600dp"
+            android:layout_marginLeft="160dp"
+            android:text="@string/risco1"
+
+            />
+
+        <ImageView
+            android:id="@+id/imageView18"
+            android:layout_width="102dp"
+            android:layout_height="71dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_marginLeft="-270dp"
+            android:layout_marginTop="190dp"
+            app:srcCompat="@drawable/risco3" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="-430dp"
+            android:layout_marginLeft="140dp"
+            android:text="@string/risco2"/>
+
+
+        <ImageView
+            android:id="@+id/imageView19"
+            android:layout_width="102dp"
+            android:layout_height="71dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_marginLeft="-290dp"
+            android:layout_marginTop="280dp"
+            app:srcCompat="@drawable/risco2" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="-240dp"
+            android:layout_marginLeft="120dp"
+            android:text="@string/risco3"/>
+
+
+        <ImageView
+            android:id="@+id/imageView20"
+            android:layout_width="100dp"
+            android:layout_height="65dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_marginLeft="-260dp"
+            android:layout_marginTop="368dp"
+            android:paddingTop="10dp"
+            app:srcCompat="@drawable/risco4" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="-70dp"
+            android:layout_marginLeft="140dp"
+            android:text="@string/risco4"/>
+
+
+        <ImageView
+            android:id="@+id/imageView21"
+            android:layout_width="102dp"
+            android:layout_height="71dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_marginTop="450dp"
+            android:layout_marginLeft="-299dp"
+            app:srcCompat="@drawable/risco5"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="100dp"
+            android:text="@string/risco5"/>
+
+        <ImageView
+            android:id="@+id/imageView22"
+            android:layout_width="102dp"
+            android:layout_height="71dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_marginLeft="-282dp"
+            android:layout_marginTop="530dp"
+            android:paddingTop="10dp"
+            app:srcCompat="@drawable/risco6" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="260dp"
+            android:layout_marginLeft="120dp"
+            android:text="@string/risco6"/>
+
+
+        <ImageView
+            android:id="@+id/imageView23"
+            android:layout_width="102dp"
+            android:layout_height="71dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_marginTop="605dp"
+            android:layout_marginLeft="-250dp"
+            app:srcCompat="@drawable/risco7"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="400dp"
+            android:layout_marginLeft="155dp"
+            android:text="@string/risco7"/>
+
+
+        <ImageView
+            android:id="@+id/imageView24"
+            android:layout_width="1070dp"
+            android:layout_height="71dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_marginLeft="-200dp"
+            android:layout_marginTop="690dp"
+            android:paddingTop="10dp"
+            app:srcCompat="@drawable/risco8" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="88dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="190dp"
+            android:layout_marginTop="560dp"
+            android:paddingLeft="16dp"
+            android:paddingTop="35dp"
+            android:paddingRight="16dp"
+            android:text="@string/risco8" />
+
+        <ImageView
+            android:id="@+id/imageView25"
+            android:layout_width="102dp"
+            android:layout_height="71dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="fill_horizontal"
+            android:layout_marginTop="785dp"
+            android:layout_marginLeft="-300dp"
+            app:srcCompat="@drawable/risco9"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingTop="16dp"
+            android:paddingRight="16dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="790dp"
+            android:layout_marginLeft="90dp"
+            android:text="@string/risco9"/>
+
+    </GridLayout>
+</ScrollView>

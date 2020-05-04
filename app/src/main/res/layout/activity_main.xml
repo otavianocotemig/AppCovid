@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="10dp">
+
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:background="#4fb3bf"
+                android:text="Ações contra a Covid-19"
+                android:textAlignment="center"
+                android:gravity="center_vertical"
+                android:textColor="#000000"
+                android:textSize="18dp"
+                tools:layout_editor_absoluteX="47dp"
+                tools:layout_editor_absoluteY="50dp" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="244dp"
+                android:paddingTop="40dp"
+                android:paddingBottom="20dp"
+                app:srcCompat="@drawable/imgcovid"
+                tools:layout_editor_absoluteX="100"
+                tools:layout_editor_absoluteY="118dp" />
+
+
+            <Button
+                android:id="@+id/botao_entrada"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:backgroundTint="#4fb3bf"
+                android:text="Quando entrar em casa"
+                tools:layout_editor_absoluteX="43dp"
+                tools:layout_editor_absoluteY="308dp" />
+
+
+            <Button
+                android:id="@+id/botao_risco"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:backgroundTint="#4fb3bf"
+                android:text="Convivência com pessoas nos grupos de risco"
+                tools:layout_editor_absoluteX="43dp"
+                tools:layout_editor_absoluteY="387dp" />
+
+            <Button
+                android:id="@+id/botao_saida"
+                android:layout_width="match_parent"
+                android:layout_height="74dp"
+                android:backgroundTint="#4fb3bf"
+                android:text="Quando sair de casa"
+                tools:layout_editor_absoluteX="43dp"
+                tools:layout_editor_absoluteY="462dp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="App Referência"
+                android:textAllCaps="false"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="140dp"
+                tools:layout_editor_absoluteY="681dp" />
+
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:text="www.cotemig.com.br"
+                android:gravity="center"
+                android:textAllCaps="false"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteX="140dp"
+                tools:layout_editor_absoluteY="681dp" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
