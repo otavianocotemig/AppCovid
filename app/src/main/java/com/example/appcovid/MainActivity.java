@@ -15,7 +15,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-// app de referencia
+// app de referencia para criacao das demais
+
         Button botaoCasa = findViewById(R.id.botao_entrada);
 
         botaoCasa.setOnClickListener(new View.OnClickListener() {
